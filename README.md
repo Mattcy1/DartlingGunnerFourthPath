@@ -1,7 +1,7 @@
 # DartlingGunnerFourthPath
 
 <a href="https://github.com/Mattcy1/DartlingGunnerFourthPath/releases/download/Btd6-mods/DartlingGunnerFourthPath.dll">
-    <img align="left" alt="Icon" height="90" src="Enderman-Icon.png">
+    <img align="left" alt="Icon" height="90" src="DartlingGunnerPath-Portrait.png">
     <img align="right" alt="Download" height="75" src="https://raw.githubusercontent.com/gurrenm3/BTD-Mod-Helper/master/BloonsTD6%20Mod%20Helper/Resources/DownloadBtn.png">
 </a>
 
